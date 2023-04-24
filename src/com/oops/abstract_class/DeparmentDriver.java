@@ -7,4 +7,7 @@ public class DeparmentDriver {
 		System.out.println("Deaprtment One has "+ emp + " employess");
 	
 	}
+		static {
+			System.out.println("static 1");
+		}
 }
