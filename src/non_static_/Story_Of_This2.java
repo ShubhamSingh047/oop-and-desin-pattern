@@ -10,8 +10,7 @@ public class Story_Of_This2 {
 		 * name ! 
 		 * 
 		 */
-//		this.num=num;
-		num =num;
+		this.num=num;
 	}
 	
 	public static void main(String[] args) {
